@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Script.
+# Script of ttps
 
 if [ "$#" -lt "1" ]
 then
